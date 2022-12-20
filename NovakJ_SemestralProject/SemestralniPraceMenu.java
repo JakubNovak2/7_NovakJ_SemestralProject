@@ -2,6 +2,11 @@ package NovakJ_SemestralProject;
 
 import java.util.Scanner;
 
+/**
+* 7. Menu for choosing if you want to start semestral project of christmas poject
+* @author Jakub Novak
+* @version 18/12/2022
+*/
 public class SemestralniPraceMenu {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

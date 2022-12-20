@@ -1,6 +1,11 @@
 package NovakJ_SemestralProject;
 import java.util.Scanner;
 
+/**
+* 7. Program that counts how many points are inside, on ege or outside of a triangle with given coordinates
+* @author Jakub Novak
+* @version 18/12/2022
+*/
 public class SemestralniPraceUloha7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
