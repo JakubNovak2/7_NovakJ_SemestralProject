@@ -101,6 +101,3 @@ public class SemestralniPraceUloha7 {
         return area;
     }
 }
-
-
-//
